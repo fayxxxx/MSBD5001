@@ -1,5 +1,7 @@
 msbd5001 individual project
 
-team name: qaq28
+Team Name: qaq28
 
-Link: https://www.kaggle.com/competitions/msbd5001-spring-2022/overview
+Competition Link: https://www.kaggle.com/competitions/msbd5001-spring-2022/overview
+
+In this project, two models are utilized and the corresponding results are submitted.
